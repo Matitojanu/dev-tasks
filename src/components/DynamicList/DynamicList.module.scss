@@ -1,0 +1,16 @@
+@import "../../assets/styles/theme";
+
+.list {
+  list-style: none;
+  margin-left: 44%;
+  margin-top: 1%;
+}
+
+.listElements {
+  border-style: solid;
+  border-radius: 1px;
+  border-color: $green;
+  margin-right: 83%;
+  margin-bottom: 1%;
+  font-weight: bold;
+}
